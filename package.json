@@ -1,0 +1,27 @@
+{
+  "name": "chattrbox",
+  "version": "1.0.0",
+  "description": "CPSC 349 Front End Web-Development Homework 5: From Ch15 and 16  from Front End Big Nerd Ranch Guide\r Author: Nathaniel Richards\r Due : 10/15/19\r Implements Program from Front Wend Big Nerd Ranch Guide Textbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathrichCSUF/Chattrbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "bugs": {
+    "url": "https://github.com/nathrichCSUF/Chattrbox/issues"
+  },
+  "homepage": "https://github.com/nathrichCSUF/Chattrbox#readme",
+  "dependencies": {
+    "mime": "^2.4.4"
+  }
+}
