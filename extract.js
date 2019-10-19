@@ -1,3 +1,6 @@
+//Nathaniel Richards
+//CPSC 349 Assignment 5 Due 10/16
+//Chattrbox
 var path = require("path");
 
 var extractFilePath = function (url) {
